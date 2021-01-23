@@ -15,4 +15,4 @@ Los principales son Sass y Less
 
 ¿Cuáles son los beneficios?
 El trabajo de maquetar una pagina web se vuelve mas fluido
-Nos ahorramos tiempo evitando escribir codigo repetitivo,usando varialbles
+Nos ahorramos tiempo evitando escribir codigo repetitivo,usando variables se pude escribir uno solo que afecte a toda la pagina 
