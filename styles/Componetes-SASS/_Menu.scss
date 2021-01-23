@@ -1,0 +1,23 @@
+.container{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.menu a{
+    color: #000;
+    margin: 0 .5em;
+}
+.menu a:hover{
+    color: var(--color-principal);
+    font-weight: 600;
+}

@@ -1,0 +1,49 @@
+$maincolor: #1F3F68;
+$firstcolor: rgb(17, 17, 112);
+/* Estilos */
+@import 'Componetes-SASS/banner';
+@import 'Componetes-SASS/heaeder';
+@import 'Componetes-SASS/Responsive';
+@import 'Componetes-SASS/font-family-body';
+@import 'Componetes-SASS/footer';
+@import 'Componetes-SASS/Menu';
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --color-principal: $maincolor;
+    
+}
+.container{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.menu a{
+    color: #000;
+    margin: 0 .5em;
+}
+.menu a:hover{
+    color: var(--color-principal);
+    font-weight: 600;
+}
+
+
